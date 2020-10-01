@@ -16,11 +16,12 @@ Strict//EN"
 
 		foreach ($email as $emailAddress) {
 			echo "The email address &ldquo;" . $emailAddress . "&rdquo; ";
-			if (preg_match("/^(([A-Za-z]+\d+)|)" . "([A-Za-z]+\.[A-Za-z]+))" . "@((mail\.)?)example\.org$/i", $emailAddress)==1) {
+			if (preg_match("/^(([A-Za-z]+\d+)|" . "([A-Za-z]+\.[A-Za-z]+))" . "@((mail\.)?)example\.org$/i", $emailAddress)==1) {
 				echo " is a valid e-mail address.";
 			}else{
 				echo " is not a valid e-mail address.";
 			}
+			echo "<br />";
 		}
 		?>
 	</body>
