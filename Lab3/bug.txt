@@ -1,0 +1,5 @@
+
+Bug: Freezes in: ball sort game, Version: 1.0.0, on: iphone, running: iOS. Problem occurs: often. Possible solution: update app.
+Bug:  in: , Version: , on: , running: . Problem occurs: . Possible solution: .
+Bug: Freezes in: ball sort game, Version: 1.0.0, on: iphone, running: iOS. Problem occurs: often. Possible solution: update app.
+Bug: Freezes in: ball sort game, Version: 1.0.0, on: iphone, running: iOS. Problem occurs: often. Possible solution: update app.
